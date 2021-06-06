@@ -5,7 +5,8 @@ Step-by-step guide to setting up the automation test environment with Google Clo
 
 Guide
 -------
-- Automation 101: The Guide
+* [Automation 101: The Guide](https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc)
+  * [Virtual Machine Installation](https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#virtual-machine-installation)
 
 License
 -------
