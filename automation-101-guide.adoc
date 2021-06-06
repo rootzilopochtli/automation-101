@@ -1,0 +1,18 @@
+= Automation 101: The Guide
+Alex Callejas <rootzilopochtli@gmail.com>
+:description: Step-by-step guide to setting up the automation test environment with Google Cloud Platform, from Automation 101 talk.
+:sectanchors:
+:url-repo: https://github.com/rootzilopochtli/automation-101
+
+== Index
+* <<Virtual Machine Installation>>
+
+
+== Virtual Machine Installation
+
+asas
+sasas
+
+== Test
+
+Es una prueba.
