@@ -20,6 +20,7 @@ Alex Callejas <rootzilopochtli@gmail.com>
 * <<Create a Load-Balanced Web Service>>
 ** <<Configuring GCE Credentials in Ansible Playbooks>>
 ** <<Create GCE Instances>>
+** <<Test GCE Load Balanced Web Instances>>
 
 
 == Virtual Machine Installation
