@@ -560,5 +560,5 @@ Run the `gce-clean.yml` playbook:
 ====
 This guide is based on my article published in the Red Hat TAM Blog: link:https://www.redhat.com/en/blog/creating-load-balanced-web-service-cloud-ansible[Creating a load-balanced web service on cloud with Ansible].
 
-link:https://twitter.com/dark_axl[Alex Callejas] | 2018
+link:https://twitter.com/dark_axl[Alex Callejas] | link:http://rutil.io/social[rutil.io/social] | 2018
 ====
