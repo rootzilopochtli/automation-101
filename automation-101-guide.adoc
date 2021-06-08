@@ -166,7 +166,7 @@ role set to "Red Hat Enterprise Linux Server".
 <3> Attach the subscription
 <4> Set VM role
 
-===== {nbsp}
+==== {nbsp}
 
 * Adding Ansible repo:
 
