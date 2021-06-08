@@ -1,0 +1,35 @@
+= Automation 101
+image:https://travis-ci.com/rootzilopochtli/automation-101.svg?branch=main["Build Status", link="https://travis-ci.com/rootzilopochtli/automation-101"]
+
+== Road to DevOps: From SysAdmin to Cloud.
+
+Step-by-step guide to setting up the automation test environment with Google Cloud Platform, from Automation 101 talk.
+
+=== Guide
+
+* link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc[Automation 101: The Guide]
+** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#virtual-machine-installation[Virtual Machine Installation]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#download-image[Download Image]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#preparation-of-vm[Preparation of VM]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#install-the-vm[Install the VM]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#setting-up-the-vm[Setting up the VM]
+** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#create-test-environment[Create Test Environment]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#create-user-and-grant-privileges[Create User and grant privileges]
+** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#ansible-google[Ansible + Google]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#install-requisites[Install requisites]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#credentials[Credentials]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#test-gcp-ansible-modules[Test GCP Ansible modules]
+** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#create-a-load-balanced-web-service[Create a Load-Balanced Web Service]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#configuring-gce-credentials-in-ansible-playbooks[Configuring GCE Credentials in Ansible Playbooks]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#create-gce-instances[Create GCE Instances]
+*** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#test-gce-load-balanced-web-instances[Test GCE Load Balanced Web Instances]
+
+=== License
+
+All parts of this material are made available under the terms of the [MIT License](LICENSE).
+
+=== Author Information
+
+This guide was created in 2021 by link:https://www.twitter.com/dark_axl[Alex Callejas], blog link:https://www.rootzilopochtli.com[rootzilopochtli.com].
+
+Follow me: link:http://rutil.io/social[rutil.io/social]
