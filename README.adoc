@@ -1,5 +1,5 @@
 = Automation 101
-image:https://travis-ci.com/rootzilopochtli/automation-101.svg?branch=main["Build Status", link="https://travis-ci.com/rootzilopochtli/automation-101"]
+image::https://travis-ci.com/rootzilopochtli/automation-101.svg?branch=main["Build Status", link="https://travis-ci.com/rootzilopochtli/automation-101"]
 
 == Road to DevOps: From SysAdmin to Cloud.
 
