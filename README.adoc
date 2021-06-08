@@ -24,12 +24,16 @@ Step-by-step guide to setting up the automation test environment with Google Clo
 *** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#create-gce-instances[Create GCE Instances]
 *** link:https://github.com/rootzilopochtli/automation-101/blob/main/automation-101-guide.adoc#test-gce-load-balanced-web-instances[Test GCE Load Balanced Web Instances]
 
-=== License
-
-All parts of this material are made available under the terms of the [MIT License](LICENSE).
+=== {nbsp}
 
 === Author Information
 
 This guide was created in 2021 by link:https://www.twitter.com/dark_axl[Alex Callejas], blog link:https://www.rootzilopochtli.com[rootzilopochtli.com].
 
 Follow me: link:http://rutil.io/social[rutil.io/social]
+
+=== {nbsp}
+
+=== License
+
+All parts of this material are made available under the terms of the link:https://github.com/rootzilopochtli/automation-101/blob/main/LICENSE[MIT License].
