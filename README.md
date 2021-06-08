@@ -1,4 +1,6 @@
 # Automation 101
+[![Build Status](https://travis-ci.com/rootzilopochtli/automation-101.svg?branch=main)](https://travis-ci.com/rootzilopochtli/automation-101)
+
 ## Road to DevOps: From SysAdmin to Cloud. 
 
 Step-by-step guide to setting up the automation test environment with Google Cloud Platform, from Automation 101 talk.
